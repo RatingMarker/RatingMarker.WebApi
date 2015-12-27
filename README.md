@@ -1,0 +1,2 @@
+# RatingMarker.WebApi
+Веб-сервис
